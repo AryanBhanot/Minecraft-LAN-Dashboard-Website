@@ -1,0 +1,26 @@
+/* public/style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #status {
+    background: #fff;
+    border: 1px solid #ddd;
+    display: inline-block;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  p {
+    font-size: 1.2em;
+  }
+  
